@@ -62,7 +62,7 @@ export default function App() {
           height={28}
           alt="logo"
         />
-        <p className=" hidden sm:flex font-bold text-inherit text-blue-600 text-xl">
+        <p className=" hidden sm:flex font-bold text-blue-600 text-xl">
           Trippy
         </p>
       </NavbarBrand>
